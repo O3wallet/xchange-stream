@@ -74,13 +74,13 @@
         <!-- For XChange SNAPSHOT dependency -->
         <repository>
             <id>sonatype-oss-snapshot</id>
-            <snapshots />
+            <snapshots/>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
     </repositories>
 
     <properties>
-        <xchange.version>4.3.14</xchange.version>
+        <xchange.version>5.0.4</xchange.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
